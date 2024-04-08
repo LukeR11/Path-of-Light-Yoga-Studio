@@ -1,9 +1,33 @@
 body{background-color: #F5F5F5;
     color: #40407A;
+    font-family:Verdana, arial, sans-serif;
 }
 
 header{background-color: #80CBC4;
+    background-image: url(lilyheader.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    height:400%; text-indent: 1em;
 }
 
 footer{background-color: #80CBC4;
+    font-size: small;
+    font-style: italic;
+    text-align: center;
+}
+
+nav{font-weight: bold;
+    text-align: center;
+}
+
+nav a{text-decoration: none;}
+
+li{font-size: 90%;
+}
+
+dd{font-size:90%;
+}
+
+h1{line-height:400%;
+    text-indent: 1em;
 }
